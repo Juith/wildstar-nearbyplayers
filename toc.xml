@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Jeuith" APIVersion="14" Name="NearbyPlayers" Description="Tracks Nearby Players." Version="2.1">
+    <Script Name="NearbyPlayers.lua"/>
+    <Form Name="NearbyPlayers.xml"/>  
+</Addon>
